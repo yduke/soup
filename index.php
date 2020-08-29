@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿<!doctype html>
+<html lang="zh-CN">
 <!-- saved from url=(0020)http://www.nows.fun/ -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -24,7 +25,7 @@
 <div class="container">
 	<div class="row" style="margin-top: 30px;">
 	    <div class="col">
-	      <a href="" id="logo_a"><img class="logo" src="./img/logo.svg"></a>
+	      <a href="" id="logo_a"><img class="logo" src="./img/logo.svg" alt="毒鸡汤"></a>
 	    </div>
 	    <div class="col">
 	    	<div class="float-right">
@@ -43,7 +44,6 @@
 			<span id="bar" data-progress="10"></span>
 		</div>
 	</div>
-</div>
 </div>
 <div class="footer">
 	<div class="container">
