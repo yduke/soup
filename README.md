@@ -1,6 +1,9 @@
 # Poisoned Chicken Soup 毒鸡汤
+
 *毒鸡汤改进版*
+
 原程序由[egotong](https://github.com/egotong/nows)创建。
+
 本Repo在原版本的基础上大致有以下改进：
 
  1. 支持最新的PHP7系列版本；
@@ -13,5 +16,3 @@
 [Demo](https://dukeyin.com/soup)
 
 同原有程序一样，开源。加入MIT许可。
-
-
