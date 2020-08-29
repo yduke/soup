@@ -49,7 +49,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col text-center">
-	            <p>By <a target="_blank" href="https://github.com/egotong/nows">egotong</a>, improved by <a target="_blank" href="">Duke Yin</a></p>
+	            <p>Original by <a target="_blank" href="https://github.com/egotong/nows">egotong</a>, improved by <a target="_blank" href="">Duke Yin</a></p>
 	    </div>
   		</div>
 	</div>
