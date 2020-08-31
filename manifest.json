@@ -6,7 +6,7 @@
   "display": "fullScreen",
   "orientation": "portrait",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "https://dukeyin.com/soup",
   "icons": [
     {
       "src": "img/icons/icon-72x72.png",

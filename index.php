@@ -16,9 +16,10 @@
 	<meta property="og:image" content="./img/logo.svg" />
 	<meta property="og:site_name" content="毒鸡汤 - 壮士可要来一碗！" />
 	<meta property="og:description" content="我们精心熬制了有屎以来最毒1000多条经典毒鸡汤,句句“治愈”人心! 只为了帮你更好的看清人生认识自己，直面现实,直面惨淡的人生,不给你励志,不给你慰藉,像一根鞭猛的抽你一下,使你清醒,知道这个世界和你自己最真实的一面,是青少年手机里的必备宝典。"/>
-	<link rel="icon" href="./img/soup.png" type="image/x-icon" id="page_favionc">
+	<link rel="icon" href="./img/icons/icon-512x512.png" type="image/x-icon" id="page_favionc">
 	<link href="./style.css" rel="stylesheet">
-	<link rel="alternate icon" type="image/png" href="./img/soup.png">
+	<link rel="alternate icon" type="image/png" href="./img/icons/icon-512x512.png">
+	<link rel="apple-touch-icon-precomposed" href="./img/icons/icon-512x512.png">
 	<link rel="manifest" href="./manifest.json">
 	<link rel="stylesheet" href="//cdn.staticfile.org/animsition/4.0.2/css/animsition.min.css">
 	<script src="//cdn.staticfile.org/jquery/1.11.0/jquery.min.js"></script>
