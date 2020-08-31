@@ -1,6 +1,9 @@
 # Poisoned Chicken Soup 毒鸡汤
 *毒鸡汤改进版*
 原程序由[egotong](https://github.com/egotong/nows)创建。
+
+内含1000多条毒鸡汤，每刷新页面或间隔10秒更换一句。
+
 本Repo在原版本的基础上大致有以下改进：
 
  1. 支持最新的PHP7系列版本；
