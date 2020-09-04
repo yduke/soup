@@ -7,7 +7,7 @@
   "orientation": "portrait",
   "description": "最毒1000多条经典毒鸡汤,句句“治愈”人心!",
   "scope": "/",
-  "start_url": "https://dukeyin.com/soup",
+  "start_url": "./",
   "icons": [
     {
       "src": "img/icons/icon-72x72.png",
