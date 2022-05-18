@@ -18,7 +18,7 @@
  6. 加入了十秒倒计时，十秒后自动刷新页面；
  7. 加入深色模式
 
-[Demo](https://soup.dukeyin.com/)
+[Demo](https://www.dukeyin.com/soup/)
 
 同原有程序一样，开源。加入MIT许可。
 
